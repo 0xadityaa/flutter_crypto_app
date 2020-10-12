@@ -1,7 +1,8 @@
 # flutter_crypto_app
 
-## this is a bacic flutter app that gets data of various crypto currencies and showes there price.
+This is a Flutter app that gets data of various diffrent Cryptocurrencys and showes its realtime value in $ (usd).
 
-Cryptocurrency API: https://min-api.cryptocompare.com/
+# Cryptocurrency API:
+https://min-api.cryptocompare.com/
 
-![](assets/preview.jpg)
+<img src="assets/preview.jpg" height="800"/>
